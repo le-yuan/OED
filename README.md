@@ -27,21 +27,19 @@ OED/
 
 ## Usage
 
-1. **Install the latest version**
+1. Install the latest version with:
 ```bash
 git clone https://github.com/le-yuan/OED.git
 cd OED
 pip install -r requirements.txt
 ```
 
-2. **Download, process, and clean enzyme data**
-   Example:
+2. If you want to download, process, and clean enzyme data from various sources, you can run a script such as:
 ```linux
 python code/sabio_download.py
 ``` 
 
-3. **Analyze and visualize data in the OED**
-   Example:
+3. If you want to analyze and visualize data in the OED, you can run a script such as:
 ```linux
 python plot/plot_EC_percentage.py
 ``` 
