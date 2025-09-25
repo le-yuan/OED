@@ -25,13 +25,31 @@ OED/
 └── requirements.txt      # Python dependencies
 ```
 
+## Usage
+
+1. **Install the latest version**
+```bash
+git clone https://github.com/le-yuan/OED.git
+cd OED
+pip install -r requirements.txt
+```
+
+2. **Download, process, and clean enzyme data**
+```linux
+python code/sabio_download.py
+``` 
+
+3. **Analyze and visualize data in the OED**
+```linux
+python plot/plot_EC_percentage.py
+``` 
+
 
 ## Citation
 
 If you use **OED** in your research, please cite:
 
 > Le Yuan, David M. Bianchi, Katherine Arneson, Bingji Guo, Sara Lambert, Chris Stephens, Yash H. Wasnik, Christopher Pond, Matthew J. Berry, and Huimin Zhao. (2025). **Open Enzyme Database: A Community-wide Repository for Sharing Enzyme Data.** Nucleic Acids Research. (Under Review)
-
 
 
 ## Contact
