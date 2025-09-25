@@ -1,7 +1,7 @@
 # [**OED**](https://openenzymedb.platform.moleculemaker.org/home) 
 
 <p align="center">
-  <img  src="picture/NAR_graphical abstract.jpeg" width = "800">
+  <img  src="picture/OED_overview.png" width = "800">
 </p>
 
 
