@@ -12,6 +12,8 @@ The **Open Enzyme Database (OED)** is a community-driven resource developed for 
 
 ## Citation
 
+If you use **OED** in your research, please cite:
+
 > Le Yuan, David M. Bianchi, Katherine Arneson, Bingji Guo, Sara Lambert, Chris Stephens, Yash H. Wasnik, Christopher Pond, Matthew J. Berry, and Huimin Zhao. (2025). **Open Enzyme Database: A Community-wide Repository for Sharing Enzyme Data.** Nucleic Acids Research. (Under Review)
 
 
