@@ -12,6 +12,7 @@ The **Open Enzyme Database (OED)** is a community-driven resource developed for 
 
 ## Repository Structure
 
+```text
 OED/
 ├── code/                 # Python scripts
 ├── complementaryData/    # Complementary datasets
@@ -22,6 +23,7 @@ OED/
 ├── plot/                 # Scripts for generating plots
 ├── README.md             # Project README file
 └── requirements.txt      # Python dependencies
+```
 
 
 ## Citation
