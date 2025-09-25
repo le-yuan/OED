@@ -1,9 +1,9 @@
 # [**OED**](https://openenzymedb.platform.moleculemaker.org/home) 
 
-<p align="center">
+<!-- <p align="center">
   <img  src="picture/OED_overview.png" width = "800">
-</p>
-
+</p> -->
+![OED Graphical Abstract](picture/OED_overview.png "OED Graphical Abstract")
 
 ## Introduction
 
