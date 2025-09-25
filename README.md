@@ -7,7 +7,7 @@
 
 ## Introduction
 
-The **Open Enzyme Database (OED)** (https://openenzymedb.platform.moleculemaker.org/home) is a community-driven resource developed for researchers and professionals in biochemistry, molecular biology, enzymology, protein and metabolic engineering, and related fields. As a unified web-based platform for exploring enzyme data, OED provides curated information on enzyme kinetic parameters, structural data, and functional annotations. It also features state-of-the-art AI models for enzyme property prediction and cheminformatics-powered enzyme recommendations, with ongoing expansion to incorporate additional enzyme-related data such as enzyme solubility, stability, specificity, functions, and beyond.
+The **Open Enzyme Database (OED) (https://openenzymedb.platform.moleculemaker.org/home)**  is a community-driven resource developed for researchers and professionals in biochemistry, molecular biology, enzymology, protein and metabolic engineering, and related fields. As a unified web-based platform for exploring enzyme data, OED provides curated information on enzyme kinetic parameters, structural data, and functional annotations. It also features state-of-the-art AI models for enzyme property prediction and cheminformatics-powered enzyme recommendations, with ongoing expansion to incorporate additional enzyme-related data such as enzyme solubility, stability, specificity, functions, and beyond.
 
 
 ## Repository Structure
