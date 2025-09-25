@@ -35,11 +35,13 @@ pip install -r requirements.txt
 ```
 
 2. **Download, process, and clean enzyme data**
+   Example:
 ```linux
 python code/sabio_download.py
 ``` 
 
 3. **Analyze and visualize data in the OED**
+   Example:
 ```linux
 python plot/plot_EC_percentage.py
 ``` 
